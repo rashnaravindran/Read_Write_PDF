@@ -28,6 +28,7 @@ Read_Write_PDF/
 ├── PDF/
 
 │   ├── DF.pdf        # Input PDF containing Amazon order sticker images (1 per page)
+
 │   ├── DF.xlsx       # Excel file mapping Order ID → SKU & Item Title
 
 ├── imgfrompdf.py   
