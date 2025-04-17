@@ -26,10 +26,13 @@ The updated pages are saved as a new PDF (DF_O.pdf) in PDF folder, with each pag
 📂 Folder Structure
 Read_Write_PDF/
 ├── PDF/
+
 │   ├── DF.pdf        # Input PDF containing Amazon order sticker images (1 per page)
 │   ├── DF.xlsx       # Excel file mapping Order ID → SKU & Item Title
-├── imgfrompdf.py    # Your main processing script
-├── README.md         # This file
+
+├── imgfrompdf.py   
+├── README.md       
+
 💡 Dependencies
 Python 3.x
 
